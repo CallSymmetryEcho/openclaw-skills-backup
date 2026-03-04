@@ -1,0 +1,16 @@
+# 排除与skills无关的工具脚本
+# 这些脚本留在本地，不备份到GitHub
+agent_collaboration_example.py
+agent_manager.sh
+backup-private-nas.sh
+backup-skills-cron.sh
+backup-skills-github.sh
+backup_manager.sh
+install-cron.sh
+treasury_chart.py
+treasury_debt_chart.py
+treasury_debt_simple.sh
+treasury_svg_chart.py
+memory_inheritance.py
+__pycache__/
+*.pyc
